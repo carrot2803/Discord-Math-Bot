@@ -41,4 +41,6 @@ If you have any questions, issues, or suggestions regarding the Math-Bot, please
 Due to the nature of the project, the code for commands is not open-source until a later date.
 
 ## Snippets
---coming soon
+![Screenshot 1](screenshots/screenshot1.png)<br/>
+![Screenshot 2](screenshots/screenshot2.png)<br/>
+![Screenshot 3](screenshots/screenshot3.png)<br/>
