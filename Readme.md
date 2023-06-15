@@ -39,3 +39,6 @@ If you have any questions, issues, or suggestions regarding the Math-Bot, please
 ## Where is the commands folder?
 
 Due to the nature of the project, the code for commands is not open-source until a later date.
+
+## Snippets
+--coming soon
